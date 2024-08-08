@@ -88,10 +88,10 @@ export function Component() {
             )}
             <main className="flex-1 relative">
                 <section id="top" className="w-full py-12 md:py-24 lg:py-32 relative overflow-hidden">
-                    <video className="absolute top-0 left-0 w-full h-full object-cover brightness-50" autoPlay loop muted>
-                        <source src="/jumbotron-background.mp4" type="video/mp4"/>
-                        Your browser does not support the video tag.
-                    </video>
+                    {/*<video className="absolute top-0 left-0 w-full h-full object-cover brightness-50" autoPlay loop muted>*/}
+                    {/*    <source src="/jumbotron-background.mp4" type="video/mp4"/>*/}
+                    {/*    Your browser does not support the video tag.*/}
+                    {/*</video>*/}
                     <div className="relative z-10 container mx-auto text-center px-4 md:px-6 max-w-2xl">
                         <div className="text-white">
                             <div className="space-y-4">
