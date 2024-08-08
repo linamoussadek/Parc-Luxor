@@ -1,7 +1,10 @@
 {
   "files": {
-    "main.css": "/Parc-Luxor/static/css/main.7351bce2.css",
-    "main.js": "/Parc-Luxor/static/js/main.b65ddef2.js",
+    "main.css": "/Parc-Luxor/static/css/main.b4f59861.css",
+    "main.js": "/Parc-Luxor/static/js/main.4fd7b80f.js",
+    "static/media/jumbotron-background.mp4": "/Parc-Luxor/static/media/jumbotron-background.36634e831b4ea967213f.mp4",
+    "static/media/who-we-are.png": "/Parc-Luxor/static/media/who-we-are.519330f306d8008d5cac.png",
+    "static/media/approach.jpg": "/Parc-Luxor/static/media/approach.f22736fb79a0b3761f8d.jpg",
     "static/media/fa-solid-900.ttf": "/Parc-Luxor/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/fa-brands-400.ttf": "/Parc-Luxor/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
     "static/media/fa-solid-900.woff2": "/Parc-Luxor/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
@@ -11,11 +14,11 @@
     "static/media/fa-v4compatibility.ttf": "/Parc-Luxor/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
     "static/media/fa-v4compatibility.woff2": "/Parc-Luxor/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/Parc-Luxor/index.html",
-    "main.7351bce2.css.map": "/Parc-Luxor/static/css/main.7351bce2.css.map",
-    "main.b65ddef2.js.map": "/Parc-Luxor/static/js/main.b65ddef2.js.map"
+    "main.b4f59861.css.map": "/Parc-Luxor/static/css/main.b4f59861.css.map",
+    "main.4fd7b80f.js.map": "/Parc-Luxor/static/js/main.4fd7b80f.js.map"
   },
   "entrypoints": [
-    "static/css/main.7351bce2.css",
-    "static/js/main.b65ddef2.js"
+    "static/css/main.b4f59861.css",
+    "static/js/main.4fd7b80f.js"
   ]
 }
