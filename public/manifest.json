@@ -3,7 +3,7 @@
   "name": "Parc Luxor",
   "icons": [
     {
-      "src": "Luxor-logo.png",
+      "src": "%PUBLIC_URL%/Luxor-logo.png",
       "type": "image/png",
       "sizes": "300x90"
     }
