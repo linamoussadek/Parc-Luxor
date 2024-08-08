@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/testgpt.iml" filepath="$PROJECT_DIR$/.idea/testgpt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/parcluxor.iml" filepath="$PROJECT_DIR$/.idea/parcluxor.iml" />
     </modules>
   </component>
 </project>
