@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Parc-Luxor/static/css/main.7351bce2.css",
-    "main.js": "/Parc-Luxor/static/js/main.f8e37b11.js",
+    "main.js": "/Parc-Luxor/static/js/main.bd0ac8ff.js",
     "static/media/fa-solid-900.ttf": "/Parc-Luxor/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/fa-brands-400.ttf": "/Parc-Luxor/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
     "static/media/fa-solid-900.woff2": "/Parc-Luxor/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
@@ -12,10 +12,10 @@
     "static/media/fa-v4compatibility.woff2": "/Parc-Luxor/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/Parc-Luxor/index.html",
     "main.7351bce2.css.map": "/Parc-Luxor/static/css/main.7351bce2.css.map",
-    "main.f8e37b11.js.map": "/Parc-Luxor/static/js/main.f8e37b11.js.map"
+    "main.bd0ac8ff.js.map": "/Parc-Luxor/static/js/main.bd0ac8ff.js.map"
   },
   "entrypoints": [
     "static/css/main.7351bce2.css",
-    "static/js/main.f8e37b11.js"
+    "static/js/main.bd0ac8ff.js"
   ]
 }
