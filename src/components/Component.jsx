@@ -1,6 +1,11 @@
 import React, { useState } from 'react';
 import { HashLink as Link } from 'react-router-hash-link';
 import { Button } from './ui/button';
+import luxorLogo from '../assets/Luxor-logo.png';
+import approachImage from '../assets/approach.jpg';
+import whoWeAreImage from '../assets/who-we-are.png';
+import jumbotronBackgroundVideo from '../assets/jumbotron-background.mp4';
+
 
 export function Component() {
 
@@ -14,7 +19,7 @@ export function Component() {
         <div className="flex flex-col min-h-[100dvh]">
             <header className="px-4 lg:px-6 h-20 flex items-center bg-black text-white">
                 <Link to="#top" className="flex items-center justify-center">
-                    <img src="/Luxor-logo.png" alt="Luxor Logo" className="h-10 w-auto sm:h-12 md:h-14 lg:h-12"/>
+                    <img src={luxorLogo} alt="Luxor Logo" className="h-10 w-auto sm:h-12 md:h-14 lg:h-12"/>
                     <span className="sr-only">Parc Luxor</span>
                 </Link>
                 <nav className="ml-auto hidden md:flex gap-6 sm:gap-8 lg:gap-10">
@@ -88,10 +93,10 @@ export function Component() {
             )}
             <main className="flex-1 relative">
                 <section id="top" className="w-full py-12 md:py-24 lg:py-32 relative overflow-hidden">
-                    {/*<video className="absolute top-0 left-0 w-full h-full object-cover brightness-50" autoPlay loop muted>*/}
-                    {/*    <source src="/jumbotron-background.mp4" type="video/mp4"/>*/}
-                    {/*    Your browser does not support the video tag.*/}
-                    {/*</video>*/}
+                    <video className="absolute top-0 left-0 w-full h-full object-cover brightness-50" autoPlay loop muted>
+                        <source src={jumbotronBackgroundVideo} type="video/mp4"/>
+                        Your browser does not support the video tag.
+                    </video>
                     <div className="relative z-10 container mx-auto text-center px-4 md:px-6 max-w-2xl">
                         <div className="text-white">
                             <div className="space-y-4">
@@ -118,7 +123,7 @@ export function Component() {
                         <div className="grid gap-6 lg:grid-cols-2 lg:gap-12">
                             <div className="order-1 lg:order-2">
                                 <img
-                                    src="/who-we-are.png"
+                                    src={whoWeAreImage}
                                     width="550"
                                     height="310"
                                     alt="Parc Luxor Approach"
@@ -207,7 +212,7 @@ export function Component() {
                         <div className="grid gap-6 lg:grid-cols-2 lg:gap-12">
                             <div className="order-2 lg:order-1">
                                 <img
-                                    src="/approach.jpg"
+                                    src={approachImage}
                                     width="550"
                                     height="310"
                                     alt="Parc Luxor Approach"
